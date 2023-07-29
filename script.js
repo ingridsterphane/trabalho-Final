@@ -10,3 +10,11 @@ function scrollFunction() {
     document.getElementById("logo").style.fontSize = "35px";
   }
 }
+
+function abrirlivro() {
+    window.open("https://twitter.com/knj_brasil/status/1684324789807185924", "_blank");
+}
+
+function doe() {
+  window.open("https://twitter.com/demonarmys/status/1659559586846613504", "_blank");
+}
